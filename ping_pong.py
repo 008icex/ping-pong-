@@ -38,7 +38,7 @@ class Player(GameSprite):
 #Escena del juego:
 back = (200, 255, 255) # color de fondo (background)
 win_width = 600
-win_height = 500
+win_height = 600
 window = display.set_mode((win_width, win_height))
 window.fill(back)
 
